@@ -10,17 +10,17 @@ To run this script, you need to have Python installed on your system, along with
 
 This script executes the following test cases:
 
-About Us -> Guiding Principles
-Home Link
-Policies and Code -> Policies
-Programs -> Workshops
-Links -> AI in Education
-Join Us -> Internship Positions
-Scroll to Top Button
-6th Slide of the Carousel
-Resume Writing
-Contact Us
-Student Scholarship Program
+1. About Us -> Guiding Principles
+2. Home Link
+3. Policies and Code -> Policies
+4. Programs -> Workshops
+5. Links -> AI in Education
+6. Join Us -> Internship Positions
+7. Scroll to Top Button
+8. 6th Slide of the Carousel
+9. Resume Writing
+10. Contact Us
+11. Student Scholarship Program
 
 For each test case, the script attempts to click on the specified link or element and verifies if the expected page or functionality is accessible. If the element is not found, it handles the NoSuchElementException and prints an error message.
 
